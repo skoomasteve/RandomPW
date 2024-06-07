@@ -13,8 +13,8 @@ ________________________________________________________________________________
 
 
 Use cases include:
--New hire accounts that await first contact from IT
--securing compromised AD accounts (accounts should likely also be disabled in this scenario)
--securing AD accounts that must remain enabled but should not be leveraged by the employee
--Script can also be easily modified to write a more uniform initial password for new hires rather than a random password or to output the random passwords for first-use assignment
--Red team pen testing
+- New hire accounts that await first contact from IT
+- securing compromised AD accounts (accounts should likely also be disabled in this scenario)
+- securing AD accounts that must remain enabled but should not be leveraged by the employee
+- Script can also be easily modified to write a more uniform initial password for new hires rather than a random password or to output the random passwords for first-use assignment
+- Red team pen testing
